@@ -1,0 +1,225 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+#pink
+{
+    background: linear-gradient(91deg,#0028ff 0%, #a800ff 70%);
+}
+span{
+    color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar-logo
+{
+    font-size:1.5rem;
+    color: yellow;
+    text-transform:uppercase ;
+    text-decoration: none;
+    margin-right: 20px;
+    width: 20%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+;
+    
+}
+.navbar-logo:hover{
+    color: yellow;
+}
+.nav-bar
+{
+    margin-left: 30px;
+    
+    text-transform: uppercase;
+    color:yellow;
+    text-decoration: none;
+
+}
+.nav-bar:hover{
+    color:white;
+    padding:5px 10px;
+    background-color: red;
+    border-radius: 50px;
+}
+
+.search
+{
+    height: 50px;
+    width: 90%;
+    border-radius: 60px;
+    outline: none;
+    border:none;
+    margin-right: -35px;
+    font-weight:700 ;
+}
+.btn0
+{
+    height: 50px;
+    width: 60%;
+    outline: none;
+    border: none;
+    background: red;
+    color: yellow;
+    border-radius: 60px;
+    font-weight: 700;
+}
+.main
+{
+    background: url("https://img.freepik.com/free-photo/view-ready-eat-delicious-meal-go_23-2151431768.jpg?size=626&ext=jpg&ga=GA1.1.1819120589.1727568000&semt=ais_hybrid")no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: 50%,50%;
+    width: 100%;
+}
+.main h1{
+    font-size: 4rem;
+    font-weight: 700;
+}
+.btn1{
+     height: 45px;
+     width: 35%;
+     border: 2px solid red;
+     outline: none;
+     background-color: transparent;
+     color: red;
+     font-weight: 700;
+     border-radius: 60px;
+}
+.product h1{
+    font-weight: 700;
+}
+.card-body
+{
+    box-shadow: -2px 4px 44px 0px rgba(203,203,30,0.75);
+-webkit-box-shadow: -2px 4px 44px 0px rgba(203,203,30,0.75);
+-moz-box-shadow: -2px 4px 44px 0px rgba(203,203,30,0.75);
+
+}
+.card-body img:hover{
+    opacity: 0.5;
+    transform: scale(1);
+    
+    
+}
+#gallery h1{
+    margin-top: 100px;
+    text-shadow: 1px 1px 1px black;
+    border-bottom: 3px solid lime;
+    font-weight: 700;
+}
+#gallery h3{
+    font-weight: 700;
+    color: lime;
+    text-shadow: 1px 1px 1px black;
+    
+}
+}
+#gallery .card img{
+    transition: 0.5s ease;
+    cursor: pointer;
+    
+}
+#gallery .card img:hover{
+    transform: translatey(-20px);
+}
+#location h1
+{
+    margin-top: 100px;
+    text-shadow: 1px 1px 1px black;
+    border-bottom: 3px solid aqua;
+    font-weight: 700;
+}
+#location h3{
+    
+        font-weight: 700;
+        color: aqua;
+        text-shadow: 1px 1px 1px black;
+        
+    
+}
+#menu
+{
+    background-color: bisque;
+    margin-top: 100px;
+    border-radius: 10px;
+    box-shadow: 0 0 3px black;
+}
+#menu h1{
+    margin-top: 50px;
+    text-shadow: 1px 1px 1px black;
+    border-bottom:3px solid gold;
+}
+#menu p img{
+    border-radius: 50px;
+}
+#menu p span {
+    color:gold;
+    font-size: 20px;
+}
+#about h1
+{
+margin-top: 100px;
+text-shadow: 1px 1px 1px black;
+border-top: 4px solid blue;
+}
+#chefs
+{   
+    margin-top: 100px;
+    text-shadow: 1px 1px 1px black;
+    border-top: 4px solid blue; 
+}
+#chef2
+{
+    margin-top: 100px;
+    text-shadow: 1px 1px 1px black;
+    border-top: 4px solid blue;
+}
+
+#btnrd
+{
+    margin-top: 20px;
+}
+#btnrd button{
+    padding: 10px 20px;
+    background: linear-gradient(91deg,#0028ff 0%, #a800ff 70%);
+    border-radius: 50px;
+    color: white;
+    letter-spacing: 3px;
+    border: none;
+    cursor: pointer;
+}
+#orange 
+{
+    margin-top: 100px;
+    
+}
+
+#tin
+{
+    
+    background: linear-gradient(91deg,#0028ff 0%, #a800ff 70%);
+}
+#yellow
+{
+    color:yellow;
+}
+#yellow:hover{
+    padding:5px 10px;
+    background-color: black;
+     border-radius: 50px;
+}
+#venn
+{
+    color:yellowgreen;
+}
+#read
+{
+    color:yellowgreen;
+}
+#diag
+{
+    color:yellowgreen;
+}
